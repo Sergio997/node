@@ -1,0 +1,8 @@
+server:
+  port: 7000
+spring:
+  application:
+    name: node
+  data:
+    mongodb:
+      uri: mongodb+srv://serhii997:12345@serhii997.q0vow.mongodb.net/MongoDB?retryWrites=true&w=majority
